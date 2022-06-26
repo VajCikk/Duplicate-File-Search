@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="File">
+    <Position X="9" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACCQIgAAAEAAAAAAAgQAAABAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scan">
+    <Position X="12.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAAiAAAAAAgIACAEAABAAAAAQAAAAEAAQBAAQ=</HashCode>
+      <FileName>Scan.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="allFiles" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TXT">
+    <Position X="5.5" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAEAAAAAAAAAAAQAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>TXT.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
